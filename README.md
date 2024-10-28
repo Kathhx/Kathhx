@@ -1,7 +1,7 @@
 ## 
 <div align="center">
   <h1 align="Center">Hola soy Katherine✨</h1>
-    <ul>
+    <ul align="Center">
       <li>Entuciasta por la programación</li>
       <li>Mis proyectos</li>
       <li>Java, Html, PHP</li>
