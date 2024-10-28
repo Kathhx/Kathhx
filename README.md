@@ -1,5 +1,8 @@
-## HOLA, SOY KATHERINE👋
-
+## BIENVENIDO👋
+<div align="center">
+  <h1 align="Center">HOLA, SOY KATHERINE</h1>
+    
+</div>
 <!--
 **Kathhx/Kathhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
