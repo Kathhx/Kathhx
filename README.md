@@ -1,6 +1,6 @@
-## BIENVENIDO👋
+## Bienvenido👋
 <div align="center">
-  <h1 align="Center">HOLA, SOY KATHERINE</h1>
+  <h1 align="Center">Hola soy Katherine✨</h1>
     
 </div>
 <!--
