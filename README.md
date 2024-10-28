@@ -1,5 +1,5 @@
 ## 
-<div align="center">
+<div align="left">
   <h1 align="Center">Hola soy Katherine✨</h1>
     <ul align="Center">
       <li>Entuciasta por la programación</li>
