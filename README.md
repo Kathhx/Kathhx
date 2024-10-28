@@ -2,9 +2,9 @@
 <div align="center">
   <h1 align="Center">Hola soy Katherine✨</h1>
     <ul>
-      <td>
-        hola
-      </td>
+      <li>Entuciasta por la programación</li>
+      <li>Mis proyectos</li>
+      <li>Java, Html, PHP</li>
     </ul>
 </div>
 <!--
