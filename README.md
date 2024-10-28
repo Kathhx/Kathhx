@@ -2,8 +2,7 @@
 <div align="center">
   <h1 align="Center">Hola soy Katherine👋🏻</h1>
   <h3 align="center">En camino a ser una desarrolladora✨</h3>
-  <img src="![image](https://github.com/user-attachments/assets/c7f59a76-ae3f-4990-8ab0-f532151e8657)
-">
+  <img src="https://www.canva.com/design/DAGU5Xldf64/nGugWXMpiuL8BXyD3R38Fg/viewutm_content=DAGU5Xldf64&utm_campaign=designshare&utm_medium=link&utm_source=editor">
     <ul align="left">
       <li>Entuciasta por la programación</li>
       <li>Mis proyectos</li>
