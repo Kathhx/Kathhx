@@ -1,7 +1,7 @@
 ## 
 <div align="center">
   <h1 align="Center">Hola soy Katherine👋🏻</h1>
-  <img src="https://i.postimg.cc/hGQ3y5Nw/1.jpg">
+  <img src="https://i.postimg.cc/hGQ3y5Nw/1.jpg" high=50px>
   <h5 align="center">En camino a ser una desarrolladora✨</h5>
     <ul align="left">
       <li>Entuciasta por la programación</li>
