@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="Center">Hola soy Katherine✨</h1>
   <h3 align="center">En camino a ser una desarrolladora</h3>
-  <img src="descargas/1.jpg">
+  <img src="https://drive.google.com/file/d/1P-bGcOmAUsHHFbCVp6RtDoxtwKvXXe_5/view?usp=drive_link">
     <ul align="left">
       <li>Entuciasta por la programación</li>
       <li>Mis proyectos</li>
